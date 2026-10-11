@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-My name is Leida Dupret, I am 26 years old and I live in Porto, Portugal. I'm currently completing a Full-Stack Software Development reskilling program, transitioning from a career in film and photography. My background has given me a strong eye for structure, sequencing as well as a creative, problem-solving approach that I now bring to software development.
+My name is Leida Dupret, I am 25 years old and I live in Porto, Portugal. I'm currently completing a Full-Stack Software Development reskilling program, transitioning from a career in film and photography. My background has given me a strong eye for structure, sequencing as well as a creative, problem-solving approach that I now bring to software development.
 I thrive in collaborative, multicultural teams, where I can contribute, learn from diverse perspectives, and continuously grow through new challenges.
 
 <p align="left">
