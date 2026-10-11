@@ -99,8 +99,6 @@ I thrive in collaborative, multicultural teams, where I can contribute, learn fr
 <hr>
 
 ### 📊 Statistics
-
-
 <p>
   <img 
     align="left" 
