@@ -98,12 +98,6 @@ I thrive in collaborative, multicultural teams, where I can contribute, learn fr
 <br/>
 <hr>
 
-## 📈 My Contributions
-![GitHub Contributions](https://ghchart.rshah.org/ItzAdiel)
-<br/>
-<br/>
-<hr>
-
 ### 📊 Statistics
 
 
