@@ -100,12 +100,12 @@ I thrive in collaborative, multicultural teams, where I can contribute, learn fr
 
 ### 📊 Statistics
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ItzAdiel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=ItzAdiel&show_icons=true&theme=tokyonight&locale=en"
+/>
+
 
 </p>
